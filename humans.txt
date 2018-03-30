@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Craig Smith crsd36@gmail.com @reallycraig
 
 # THANKS
 
